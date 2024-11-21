@@ -1,0 +1,7 @@
+{
+	"biome.nomadhome.home_biome": "Home",
+	"teleport.nomadhome.notsafe": "You may not teleport now, there are monsters nearby",
+	"teleport.nomadhome.incombat": "You may not teleport while in combat",
+	"teleport.nomadhome.cancel": "Your teleport has been interrupted",
+	"teleport.nomadhome.teleporting" : "Teleporting..."
+}
